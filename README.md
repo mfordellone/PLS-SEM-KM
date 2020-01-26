@@ -2,7 +2,7 @@
 
 A statistical method to apply PLS-SEM and simultaneously an unsipervised classification approach.
 
-You can test the algorithm using the benchmark dataset of European Customer Satisfaction Index (ECSI data) fixing K = 3.
+You can test the algorithm using the benchmark dataset of European Customer Satisfaction Index (ECSI data), fixing K = 3.
 
 Fordellone, M., & Vichi, M. (2018). Structural Equation Modeling and simultaneous clustering through the Partial Least Squares algorithm. arXiv preprint https://arxiv.org/abs/1810.07677.
 
