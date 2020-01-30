@@ -10,7 +10,7 @@
 
 % ************************************************************************* %
 
-function [A_ott, LV_ott, Y_ott, B_ott, R2_ott, com_ott, GoF_ott, U_ott, e_ott, Evolution_e_ott, iter_ott, GoF_adj_ott,e2]=PLS_SEM_KM(MV,DP,DB,K,Mmode,lv_lab)
+function [A_ott, LV_ott, Y_ott, B_ott, R2_ott, com_ott, GoF_ott, U_ott, e_ott, Evolution_e_ott, iter_ott, GoF_adj_ott,e2] = PLS_SEM_KM(MV,DP,DB,K,Mmode,lv_lab)
 
 % The function estimates a Structural Equation Model with Partial Least
 % Squares using PLS-PM approach proposed by Wold (1982).
